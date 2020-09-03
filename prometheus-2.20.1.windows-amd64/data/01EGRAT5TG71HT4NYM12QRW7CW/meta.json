@@ -1,0 +1,17 @@
+{
+	"ulid": "01EGRAT5TG71HT4NYM12QRW7CW",
+	"minTime": 1598270400000,
+	"maxTime": 1598277600000,
+	"stats": {
+		"numSamples": 5629,
+		"numSeries": 759,
+		"numChunks": 759
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EGRAT5TG71HT4NYM12QRW7CW"
+		]
+	},
+	"version": 1
+}
